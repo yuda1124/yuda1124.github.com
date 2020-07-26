@@ -1,6 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[young's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Jul 2020 14:30:10 GMT</lastBuildDate><item><title><![CDATA[두번째 프로젝트 - Todo List 개발기]]></title><description><![CDATA[우아한 우아한 테크캠프 2번째 과제를 하며 겪었던 경험과 위기 그리고 배운 점과 아쉬운 점을 정리해보고자 합니다. Ground Rule…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/woowa-todolist/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/woowa-todolist/</guid><pubDate>Sun, 26 Jul 2020 18:50:00 GMT</pubDate><content:encoded>&lt;h3&gt;우아한&lt;/h3&gt;
-&lt;p&gt;우아한 테크캠프 2번째 과제를 하며 겪었던 경험과 위기 그리고 배운 점과 아쉬운 점을 정리해보고자 합니다.&lt;/p&gt;
-&lt;h2&gt;Ground Rule&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[young's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Jul 2020 15:19:24 GMT</lastBuildDate><item><title><![CDATA[두번째 프로젝트 - Todo List 개발기]]></title><description><![CDATA[회고 시작 우아한 테크캠프 2번째 과제를 하며 겪었던 경험과 배운 점을 정리해보고자 합니다. 글쓰는게 미흡하고 난생 처음 쓰는 블로그인 만큼 두서없을 예정입니다. 두번째 과제는 Todo List…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/woowa-todolist/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/woowa-todolist/</guid><pubDate>Sun, 26 Jul 2020 18:50:00 GMT</pubDate><content:encoded>&lt;h3&gt;회고 시작&lt;/h3&gt;
+&lt;p&gt;우아한 테크캠프 2번째 과제를 하며 겪었던 경험과 배운 점을 정리해보고자 합니다. 글쓰는게 미흡하고 난생 처음 쓰는 블로그인 만큼 두서없을 예정입니다.&lt;/p&gt;
+&lt;p&gt;두번째 과제는 Todo List였습니다. 기술문서 튜토리얼에 단골로 등장하는 투두리스트라는 과제에 방심했었는데 막상 까놓고 보니 깃헙의 프로젝트 피처를 구현하는 내용이었습니다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3ecf26d3a90403cd8cd1725ec4dd64b3/7b67d/github-project.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.32432432432432%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAABr0lEQVQ4y+VTa2/TQBD0//87IIFAQnyhVUWlShSpRS0Jad20aWzf+V6+Oz+GuUsagggFiY+ctFp7d2d2ds8ualnj8mYG7wLSmaYJ/3IKqTQepYFxA5T2MNbRW1jXYV0L3JQrNMpCM76fW64q1MSpp7hhjXEolDW4/nyFy8UcZSMxDhP6YYD3HmtlGHNoWo8hThgYDyHC+Q530uJeevhuwDRuMCFGFN45lK/f4Hz2AXJsOTMwjiN6yjff5li8eofj+RUW9utmJducODnCxftTHC/PIWKVcwlXGHZbskI7BsKYO/U9FVKJqGo83t5TqUJjZB41jeeofvlQo3xQ0CEgDjFjssLYUf6Llzi9eIt1bHbLjbHnqBqCu5HJS82dKdSiRUdgU97hdkYTK4TR/1Bo2bFispYVdMfuzmclyQSJGpJk4q01JPTcc/XxBF+OPuGsuoYIFVeBrLJoeWsNTbT0Qu1UqBzbEO7Its851wVojt4ZjzZhmWu14S1ruy38GajNM4TGZqWpcS3bzRS/EuodaXpXfyA8lDtAqP83wn3/t4T7mGcVph/9d4RPX4A4oPA7shJ8oRkXlGIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Github-Project&quot;
+        title=&quot;Github-Project&quot;
+        src=&quot;/static/3ecf26d3a90403cd8cd1725ec4dd64b3/fcda8/github-project.png&quot;
+        srcset=&quot;/static/3ecf26d3a90403cd8cd1725ec4dd64b3/12f09/github-project.png 148w,
+/static/3ecf26d3a90403cd8cd1725ec4dd64b3/e4a3f/github-project.png 295w,
+/static/3ecf26d3a90403cd8cd1725ec4dd64b3/fcda8/github-project.png 590w,
+/static/3ecf26d3a90403cd8cd1725ec4dd64b3/efc66/github-project.png 885w,
+/static/3ecf26d3a90403cd8cd1725ec4dd64b3/c83ae/github-project.png 1180w,
+/static/3ecf26d3a90403cd8cd1725ec4dd64b3/7b67d/github-project.png 2240w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Ground Rule&lt;/h3&gt;
 &lt;p&gt;새로운 팀원인 현욱님과 정한 저희 팀의 그라운드 룰입니다. 설계 후 첫번째 사이클까지 페어 프로그래밍으로 진행하고 다음 부분부터 분업으로 하기로 한 내용이 눈에 띕니다. 일관성있는 코드를 작성하기 위해서 다음과 같은 방향을 제시했는데 현욱님이 흔쾌히 응해주셔서 너무 감사했습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -19,8 +52,8 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
+        alt=&quot;Ground Rule&quot;
+        title=&quot;Ground Rule&quot;
         src=&quot;/static/b1e79c6a365a1f53a4acec4cd2e59d39/fcda8/groundrule.png&quot;
         srcset=&quot;/static/b1e79c6a365a1f53a4acec4cd2e59d39/12f09/groundrule.png 148w,
 /static/b1e79c6a365a1f53a4acec4cd2e59d39/e4a3f/groundrule.png 295w,
@@ -36,7 +69,7 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;이와 같은 룰을 토대로 저희는 차근차근 작업을 진행했는데요. 생각보다 위기는 빨리 찾아왔습니다.&lt;/p&gt;
 &lt;h3&gt;위기 #1 - 주변 팀들과의 비교&lt;/h3&gt;
-&lt;p&gt;차근차근 같이 설정하고, DB설계를 하던 어느날, 다른 조들의 진행속도가 눈에 들어오기 시작했습니다. 드래그 앤 드랍이 완성되었다는 소식이 점점 들려오기 시작했을 때부터, 제 맘은 조급해지기 시작했습니다. 우린 아직 설계도 마무리하지 못했는데 말이죠. 다행스럽게도 현욱님이 제 마음을 잡아주셔서 끝까지 구조 잡고 프로젝트를 시작할 수 있었습니다. 그래도 조급해하던 저를 위해 일요일에 나와주셔서 너무 감사했어요 ㅎㅎ&lt;/p&gt;
+&lt;p&gt;차근차근 같이 설정하고, DB설계를 하던 어느날, 다른 조들의 진행속도가 눈에 들어오기 시작했습니다. 드래그 앤 드랍이 완성되었다는 소식이 점점 들려오기 시작했을 때부터, 제 마음은 조급해지기 시작했습니다. 우린 아직 설계도 마무리하지 못했는데 말이죠. 다행스럽게도 현욱님이 제 마음을 잡아주셔서 끝까지 구조 잡고 프로젝트를 시작할 수 있었습니다.&lt;/p&gt;
 &lt;h3&gt;위기 #2 - 설계의 문제점&lt;/h3&gt;
 &lt;p&gt;드래그앤드랍을 하면서 이야기를 나눴던 부분은 다음과 같습니다.&lt;/p&gt;
 &lt;ol&gt;
@@ -117,9 +150,21 @@
 &lt;li&gt;draggedCard 변수를 초기화 합니다.&lt;/li&gt;
 &lt;li&gt;삽입될 위치를 보여줬던 dummyCard를 삭제합니다.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;다행스럽게도 조금 더 이해하기 쉽고, 예상한대로 동작하는 코드가 완성되었습니다. 기존 코드를 살리기 위해 노력하는 것보다 처음부터 다시 짜는 게 더 효과적일수 있다는 것을 배울 수 있었습니다.&lt;/p&gt;
+&lt;p&gt;다행스럽게도 조금 더 이해하기 쉽고, 예상한대로 동작하는 코드가 완성되었습니다. 비록 2박 3일동안 고생했던 코드를 날려버리긴 했지만 설계의 중요성과 어떤 상황에서는 처음부터 다시 짜는 게 더 효과적일수 있다는 것을 배울 수 있었습니다.&lt;/p&gt;
 &lt;h3&gt;급 마무리&lt;/h3&gt;
-&lt;p&gt;드래그 앤 드랍이 완성 된 후 저희에게 남은 시간은 하루 반이 전부였습니다. 마지막 밤을 세고 시연 30분 전까지 코딩에 매달려있었지만.. 전체 기능은 다 구현하지 못한 채 마무리가 됬습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+&lt;p&gt;드래그 앤 드랍이 완성 된 후 저희에게 남은 시간은 하루 반이 전부였습니다. 마지막 밤을 세고 시연 30분 전까지 코딩에 매달려있었지만.. 전체 기능은 다 구현하지 못한 채 마무리가 됐습니다.&lt;/p&gt;
+&lt;p&gt;아쉬웠던 점&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;드래그앤드랍에 시간이 너무 뺏겨서 다른 기능 구현이 완벽하지 못했던 점&lt;/li&gt;
+&lt;li&gt;코드 리뷰 및 테스트 코드 작성을 못한 점&lt;/li&gt;
+&lt;li&gt;마지막 날 밤을 샌 덕분에 금요일날 봤던 뮤지컬에 대한 기억은 첫부분과 마지막 부분 밖에 없는 점ㅠㅠ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;이번 프로젝트로 느낄 수 있었던 건 두가지입니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;정확한 설계에 시간을 쏟는 것이 오히려 시간을 절약하는 길이다.&lt;/li&gt;
+&lt;li&gt;하지만 어차피 니가 한 설계는 나중에 다 바뀔 거다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;언젠간 저에게도 설계대로 구현을 완성할 수 있는 실력이 생기길 바라면서 두서없는 글을 마치겠습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
